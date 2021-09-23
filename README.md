@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @prolenodev from Kuching, Malaysia
+# 👋 Hi, I’m @prolenodev
 [![](https://img.shields.io/badge/-@prolenodev-%23181717?style=flat-square&logo=github)](https://github.com/prolenodev)
 [![](https://img.shields.io/badge/-@prolenodev-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/prolenodev)
 [![](https://img.shields.io/badge/-@stackingtabs-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCFrSjVsrGOjFyDGv4yC9Jcw)
@@ -15,9 +15,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
