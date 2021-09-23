@@ -1,0 +1,29 @@
+# 👋 Hi, I’m @prolenodev
+[![](https://img.shields.io/badge/-@prolenodev-%23181717?style=flat-square&logo=github)](https://github.com/prolenodev)
+[![](https://img.shields.io/badge/-@prolenodev-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/prolenodev)
+[![](https://img.shields.io/badge/-@prolenodev-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCFrSjVsrGOjFyDGv4yC9Jcw)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=stackingtabs&url=https%3A%2F%2Fstackingtabs.com)](https://stackingtabs.com)
+
+- 🌱 I'm learning full-stack web and mobile app development.
+- 📌 My aim is to master Django and React.
+- 👀 I try to teach myself coding,
+- 💞️ because I can't afford a tutor yet.
+- 📆 Github's first repo: 23 September 2021.
+
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
