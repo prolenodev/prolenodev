@@ -6,8 +6,6 @@
 
 - 🌱 I'm learning full-stack web and mobile app development.
 - 📌 My aim is to master Django and React.
-- 👀 I try to teach myself coding,
-- 💞️ because I can't afford a tutor yet.
 - 📆 Github's first repo: 23 September 2021.
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
