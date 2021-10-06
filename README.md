@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @prolenodev
+# 👋 Hi, I’m @prolenodev, I'm a generalist
 [![](https://img.shields.io/badge/-@prolenodev-%23181717?style=flat-square&logo=github)](https://github.com/prolenodev)
 [![](https://img.shields.io/badge/-@prolenodev-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/prolenodev)
 [![](https://img.shields.io/badge/-@stackingtabs-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCFrSjVsrGOjFyDGv4yC9Jcw)
@@ -6,6 +6,9 @@
 
 - 🌱 I'm learning full-stack web and mobile app development.
 - 📌 My aim is to master Django and React.
+- 😌 My next aim is to explore React Native.
+- ✍️ I teach myself coding because mentors are not within reach 💰😉. 
+- 😇 Hope to find an internship or mentorship of some sort after I improve my coding skills.
 - 📆 Github's first repo: 23 September 2021.
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
@@ -22,7 +25,6 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
