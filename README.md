@@ -4,12 +4,14 @@
 [![](https://img.shields.io/badge/-@stackingtabs-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCFrSjVsrGOjFyDGv4yC9Jcw)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=stackingtabs&url=https%3A%2F%2Fstackingtabs.com)](https://stackingtabs.com)
 
-- 🌱 I'm learning full-stack web and mobile app development.
-- 📌 My aim is to master Django and React.
-- 😌 My next aim is to explore React Native.
-- ✍️ I teach myself coding because mentors are not within reach 💰😉. 
-- 😇 Hope to find an internship or mentorship of some sort after I improve my coding skills.
+- 🌱 Teaching myself full-stack web and mobile app development.
+- 📌 Mastering Django, React and React Native.
+- 😌 Working on Docker.
+- ✍️ Done deploying Wagtail backend with React frontend for free.
+- 😇 Working on Wagtail backend with React Native.
+- 🐾 Sharing my footsteps to finding solutions occasionally on Medium and Youtube.
 - 📆 Github's first repo: 23 September 2021.
+- 😳 Started with learning Python in January 2020 and have been learning to code every day since.
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
@@ -27,4 +29,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
