@@ -6,10 +6,10 @@
 
 - 🌱 Teaching myself full-stack web and mobile app development.
 - 📌 Mastering Django, React and React Native.
-- 😌 Working on Docker.
-- ✍️ Done deploying Wagtail backend with React frontend for free.
-- 😇 Working on Wagtail backend with React Native.
-- 🐾 Sharing my footsteps to finding solutions occasionally on Medium and Youtube.
+- 😌 Trying out Firebase, Docker and Wordpress.
+- ✍️ Done deploying Wagtail backend with React and React Native for free.
+- 😇 Improving my understanding of Python and Javascript.
+- 🐾 Sharing my footsteps to finding solutions occasionally on Medium and YouTube.
 - 📆 Github's first repo: 23 September 2021.
 - 😳 Started with learning Python in January 2020 and have been learning to code every day since.
 
@@ -24,12 +24,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![WebPack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
