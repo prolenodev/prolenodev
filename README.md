@@ -6,9 +6,7 @@
 
 - 🌱 Teaching myself full-stack web and mobile app development.
 - 📌 Mastering Django, React and React Native.
-- 😌 Trying out Firebase, Docker and Wordpress.
-- ✍️ Done deploying Wagtail backend with React and React Native for free.
-- 😇 Improving my understanding of Python and Javascript.
+- ✍️ Aiming to deploy more apps.
 - 🐾 Sharing my footsteps to finding solutions occasionally on Medium and YouTube.
 - 📆 Github's first repo: 23 September 2021.
 - 😳 Started with learning Python in January 2020 and have been learning to code every day since.
